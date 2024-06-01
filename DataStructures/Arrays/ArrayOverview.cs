@@ -1,4 +1,4 @@
-﻿namespace DataStructures;
+﻿namespace DataStructures.Arrays;
 
 public static class ArrayOverview
 {
